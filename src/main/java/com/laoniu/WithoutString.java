@@ -6,6 +6,9 @@ import static org.junit.Assert.assertEquals;
 
 public class WithoutString {
 
+
+
+
     public String withoutString(String base, String remove) {
         String ret1=withOutString1(base, remove);
         String[] splited = ret1.split("\\s+");
