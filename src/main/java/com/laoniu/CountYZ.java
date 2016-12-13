@@ -13,7 +13,7 @@ public class CountYZ {
                 if(i==str.length()-1){
                     count++;
                 }else{
-                    if(!Character.isAlphabetic(str.charAt(i+1))){
+                    if(!Character.isLetter(str.charAt(i+1))){
                         count++;
                     }
                 }
