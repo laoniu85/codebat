@@ -1,4 +1,4 @@
-package com.laoniu;
+package com.laoniu.String3;
 
 import org.junit.Test;
 

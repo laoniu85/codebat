@@ -1,10 +1,10 @@
-package com.laoniu;
+package com.laoniu.String3;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class CountIsNot {
+public class EqualIsNot {
 
     /*
      Given a string, return true if the number of appearances of "is"

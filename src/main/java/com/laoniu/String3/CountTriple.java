@@ -1,10 +1,10 @@
-package com.laoniu;
+package com.laoniu.String3;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class CountTripple {
+public class CountTriple {
 
     /*
         We'll say that a "triple" in a string
